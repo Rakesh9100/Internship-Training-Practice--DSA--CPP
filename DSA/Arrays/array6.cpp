@@ -1,4 +1,4 @@
-// Program to check whether there is pair of elements whose sum is equal to k or not
+// Program to check whether there is pair of elements whose sum is equal to k or not in a sorted array
 
 #include <bits/stdc++.h>
 using namespace std;
