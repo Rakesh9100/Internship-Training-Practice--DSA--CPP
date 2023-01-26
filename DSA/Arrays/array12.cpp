@@ -1,6 +1,6 @@
 // Program to rotate the 2D array matrix by 90 degree clockwise
 
-// To rotate, matrix should be square matrix
+// To rotate, matrix should be a square matrix
 
 #include <bits/stdc++.h>
 using namespace std;
