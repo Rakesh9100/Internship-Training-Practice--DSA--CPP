@@ -2,6 +2,8 @@
 
 //e.g: arr = {6, 3, 4, 1, 2} -----> {1, 3, 6, 4, 2}
 
+// Normal approach
+
 #include <bits/stdc++.h>
 using namespace std;
 
