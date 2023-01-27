@@ -19,10 +19,11 @@ int main() {
             if (arr[i] % j == 0) {
                 is_prime = false;
             }
-            if (arr[i] > 1 && is_prime == true) {
+        }
+        
+        if (arr[i] > 1 && is_prime == true) {
                 count++;
             }
-        }
     }
     cout << endl << "Number of prime numbers in the array is: " << count << endl;
     return 0;

@@ -6,9 +6,9 @@ using namespace std; // 1 8 17
 int main() {
     
     int n = 7;
-    int arr[n] = {1, 2, 4, 8, 13, 14, 17};
+    int arr[n] = {1, 2, 3, 4, 13, 14, 17};
 
-    int k = 24;
+    int k = 18;
     bool flag = false;
 
     for (int i = 0; i < n; i++) {
@@ -31,10 +31,6 @@ int main() {
                 flag = true;
                 break;
             }
-        }
-
-        if (flag == true) {
-            break;
         }
     }
     
