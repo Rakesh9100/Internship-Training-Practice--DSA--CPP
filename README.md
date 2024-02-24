@@ -31,4 +31,4 @@ This repository contains some basic concepts of C++ and some important Data Stru
 
 In various folders of the above topics, you can find questions and concepts related to that topic.
 
-<h2>Happy Coding👨‍💻</h2>
+<h2 align="center">Happy Coding👨‍💻</h2>
